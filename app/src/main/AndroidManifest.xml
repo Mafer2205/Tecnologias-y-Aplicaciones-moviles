@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.proyectotyam">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.Camera2"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProyectoTYAM">
+        <activity
+            android:name=".VisualizadorAux"
+            android:exported="true" />
+        <activity
+            android:name=".Visualizador"
+            android:exported="true" />
+        <activity
+            android:name=".Correo"
+            android:exported="true" />
+        <activity
+            android:name=".ArchivosActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Baja"
+            android:exported="true" />
+        <activity
+            android:name=".GeneralNota"
+            android:exported="true" />
+        <activity
+            android:name=".AdministrativoNota"
+            android:exported="true" />
+        <activity
+            android:name=".BuscaGoogle"
+            android:exported="true" />
+        <activity
+            android:name=".AreasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Modificacion"
+            android:exported="true" />
+        <activity
+            android:name=".UsuarioVista"
+            android:exported="true" />
+        <activity
+            android:name=".CocinaNota"
+            android:exported="true" />
+        <activity
+            android:name=".InformaticaNota"
+            android:exported="true" />
+        <activity
+            android:name=".InicioSesion"
+            android:exported="true" />
+        <activity
+            android:name=".LenguaNota"
+            android:exported="true" />
+        <activity
+            android:name=".LogisticaNota"
+            android:exported="true" />
+        <activity
+            android:name=".ContraRecupera"
+            android:exported="true" />
+        <activity
+            android:name=".NotasSeccion"
+            android:exported="true" />
+        <activity
+            android:name=".MatematicasNota"
+            android:exported="true" />
+        <activity
+            android:name=".MusicaNota"
+            android:exported="true" />
+        <activity
+            android:name=".RegistroActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SaludNota"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

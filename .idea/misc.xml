@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_actualizacion.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_archivos.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_archivos_cv.xml" value="0.25" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_areas.xml" value="0.22" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_baja.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_bandeja_mensajes.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_busca_google.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_buscarllamada.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_comentarios.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_configuracion.xml" value="0.25" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_correo.xml" value="0.18" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_inicio.xml" value="0.22" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.1" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_llamada.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_modificacion.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_administrativo.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_cocina.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_general.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_informatica.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_lengua.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_logistica.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_matematicas.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_musica.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_nota_salud.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_opcion_tutor_area.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_perfil_alumno.xml" value="0.22" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_recupera_contra.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_registro.xml" value="0.2" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_seccion_notas.xml" value="0.2" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_sms.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_vista_alumno.xml" value="0.25" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_vista_tutor.xml" value="0.2" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_vista_usuario.xml" value="0.2" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_vista_usuario_publica.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_visualizador.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/layout/activity_visualizador_aux.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/hueso/AndroidStudioProjects/ProyectoTYAM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
